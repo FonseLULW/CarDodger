@@ -1,7 +1,8 @@
 # CarDodger
 A mini car dodger game using Pygame
 
-## By: FonseLULW
-## Version: 11-2020
+By: FonseLULW<br>
+Version: 11-2021
 
-Made during my senior year for Richmond Secondary School Programming Club!
+Made during my high school senior year for the Richmond Secondary School Programming Club!
+
